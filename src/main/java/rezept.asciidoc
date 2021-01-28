@@ -1,0 +1,30 @@
+= Mein Lieblingsrezept: Frankfurter Würstel
+
+== Das ist unser Ziel
+
+image::img.png[]
+
+== Das Rezept
+
+Um diese herrlichen Frankfurter Würstel herzustellen, gibt es ein machbares, wenn auch nicht gerade einfaches Rezept!
+
+=== Zutaten
+
+* 1 Paar Frankfurter (Würstel)
+* 220 ml Wasser
+* 1 Tupfer Senf
+* 1 EL Kren
+* 1 Stk. Semmel
+
+=== Die Zubereitung
+
+. Frankfurter Würstel sind ein typisches Rezept aus der Studentenküche: Hierfür einen großen Topf mit Wasser aufkochen lassen, Hitze sofort wieder reduzieren und die Würstel hineingeben.
+. Dann 10 Minuten ziehen lassen, dabei einmal wenden. Herausnehmen und nach Belieben mit Senf, Kren und Semmel anrichten.
+
+=== Für Programmierer
+
+Da das Rezept in Textform relativ komplex ist, gibt es auch einen Algorithmus, für all jene die sich damit leichter tun. Dieser ist hier abgebildet
+
+----
+include::FrankfurterWuerstelRezeptMain.java[]
+----
